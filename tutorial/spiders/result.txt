@@ -1,0 +1,615 @@
+{"answer_url": "https://www.zhihu.com/question/26761091/answer/34092708", "vote_cnt": 7923, "name": "刘锤", "title": "高级运营和普通运营有哪些区别？ - 互联网 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26761091/answer/90556984", "vote_cnt": 5146, "name": "超哥", "title": "高级运营和普通运营有哪些区别？ - 互联网 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20225595/answer/19913216", "vote_cnt": 5421, "name": "君临", "title": "未来 10 - 20 年，什么行业会快速发展？ - 互联网 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20225595/answer/20101720", "vote_cnt": 5618, "name": "图灵Don", "title": "未来 10 - 20 年，什么行业会快速发展？ - 互联网 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28895026/answer/42502506", "vote_cnt": 7496, "name": "afishdead", "title": "有什么细节和创意的精装房让你忍不住想买？ - 装修 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22614212/answer/27612216", "vote_cnt": 5666, "name": "Giesen", "title": "为什么现在很多年轻人愿意到北上广深打拼，即使过得异常艰苦，远离亲人，仍然义无反顾？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22614212/answer/27682771", "vote_cnt": 8317, "name": "张佳玮", "title": "为什么现在很多年轻人愿意到北上广深打拼，即使过得异常艰苦，远离亲人，仍然义无反顾？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22614212/answer/22216449", "vote_cnt": 5556, "name": "Json Lee", "title": "为什么现在很多年轻人愿意到北上广深打拼，即使过得异常艰苦，远离亲人，仍然义无反顾？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22614212/answer/22191223", "vote_cnt": 18676, "name": "柏邦妮", "title": "为什么现在很多年轻人愿意到北上广深打拼，即使过得异常艰苦，远离亲人，仍然义无反顾？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22614212/answer/22057525", "vote_cnt": 25966, "name": "王远成", "title": "为什么现在很多年轻人愿意到北上广深打拼，即使过得异常艰苦，远离亲人，仍然义无反顾？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22614212/answer/41357789", "vote_cnt": 7278, "name": "token胡依林", "title": "为什么现在很多年轻人愿意到北上广深打拼，即使过得异常艰苦，远离亲人，仍然义无反顾？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29154590/answer/43579272", "vote_cnt": 14788, "name": "孙杭东", "title": "日本到底哪里好？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29154590/answer/43471887", "vote_cnt": 6136, "name": "竹叶青", "title": "日本到底哪里好？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29154590/answer/43646533", "vote_cnt": 6770, "name": "Fan Francis", "title": "日本到底哪里好？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20346941/answer/125214269", "vote_cnt": 5445, "name": "Austin", "title": "为什么有很多中国人恨日本人？ - 历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20089978/answer/26495807", "vote_cnt": 5954, "name": "十月番茄", "title": "白手起家在我们这个年代还适用吗？是否有人能真正做到？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20354735/answer/119192006", "vote_cnt": 12179, "name": "武妝妝", "title": "有哪些不起眼却非常赚钱的行业？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20354735/answer/93809439", "vote_cnt": 15627, "name": "我不是毛毛", "title": "有哪些不起眼却非常赚钱的行业？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20354735/answer/15533063", "vote_cnt": 7395, "name": "匿名用户", "title": "有哪些不起眼却非常赚钱的行业？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19818013/answer/19848876", "vote_cnt": 8604, "name": "唐僧同志", "title": "为什么海底捞没有被复制或模仿？ - 人力资源（HR） - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20347612/answer/123493303", "vote_cnt": 5023, "name": "小美", "title": "日本人真的像传闻中那样严谨吗？ - 日本文化 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20347612/answer/15345037", "vote_cnt": 9771, "name": "飞呀飞", "title": "日本人真的像传闻中那样严谨吗？ - 日本文化 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27528141/answer/41996005", "vote_cnt": 12712, "name": "Chivn", "title": "日本情人旅馆存在的原因是什么？ - 日本文化 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20317867/answer/24429555", "vote_cnt": 19794, "name": "王豖", "title": "关于房间的整理与收纳，有什么好的建议？ - 装修 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20317867/answer/23983615", "vote_cnt": 6713, "name": "苏菲", "title": "关于房间的整理与收纳，有什么好的建议？ - 装修 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31476726/answer/52484181", "vote_cnt": 49316, "name": "杨大笨子", "title": "你的手机上有什么很有意思的 App？ - Android - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31476726/answer/68378221", "vote_cnt": 5595, "name": "上高速", "title": "你的手机上有什么很有意思的 App？ - Android - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31476726/answer/53683976", "vote_cnt": 8659, "name": "Raymff", "title": "你的手机上有什么很有意思的 App？ - Android - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22414663/answer/44563440", "vote_cnt": 5816, "name": "谢煜", "title": "哪些镜头是演员失误或出现意外成就的经典之作？ - 影视评论 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22414663/answer/21508437", "vote_cnt": 12474, "name": "Roc Lee", "title": "哪些镜头是演员失误或出现意外成就的经典之作？ - 影视评论 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22414663/answer/44456789", "vote_cnt": 7675, "name": "迦楠", "title": "哪些镜头是演员失误或出现意外成就的经典之作？ - 影视评论 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24612863/answer/28415538", "vote_cnt": 5417, "name": "魏嘉毅", "title": "为什么人艺上演的《雷雨》「公益场」沦为「爆笑场」？ - 文学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20688006/answer/35326634", "vote_cnt": 5613, "name": "白头豕", "title": "姜文是一个怎样的导演？ - 如何评价 X - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21449746/answer/19889198", "vote_cnt": 13799, "name": "宋雯婷", "title": "电影《这个杀手不太冷》（Léon）为何如此受影评人喜欢？ - 影视评论 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29364545/answer/44629329", "vote_cnt": 7397, "name": "小碘", "title": "那些单曲循环过的歌，有哪些句子打动了你？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29364545/answer/44121517", "vote_cnt": 5436, "name": "凯萨琳公主", "title": "那些单曲循环过的歌，有哪些句子打动了你？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22353433/answer/34876927", "vote_cnt": 5895, "name": "黄不会", "title": "作词人把自己最好的作品给了谁？ - 音乐 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19803481/answer/22641771", "vote_cnt": 5372, "name": "Cornelius", "title": "《古惑仔》系列害了人吗？是如何害人的？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19803481/answer/17694374", "vote_cnt": 7440, "name": "VALERAIN", "title": "《古惑仔》系列害了人吗？是如何害人的？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24868012/answer/29294974", "vote_cnt": 8110, "name": "Kaiser", "title": "有哪些歌词叙事性很强的歌曲？ - 音乐 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20018541/answer/22398933", "vote_cnt": 10005, "name": "Shuen KUNG", "title": "如何评价湖南卫视的《变形计》？ - 儿童教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20018541/answer/22893042", "vote_cnt": 37521, "name": "[已重置]", "title": "如何评价湖南卫视的《变形计》？ - 儿童教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22524624/answer/22068393", "vote_cnt": 6246, "name": "张春", "title": "听过最落寞的一句话或诗句是什么？ - 文学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31784351/answer/80377383", "vote_cnt": 15426, "name": "斌卡", "title": "哪些文字绝妙到「一句话就是一个故事」？ - 阅读 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31784351/answer/53853849", "vote_cnt": 8955, "name": "林家辉Aekley", "title": "哪些文字绝妙到「一句话就是一个故事」？ - 阅读 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31784351/answer/55592498", "vote_cnt": 21022, "name": "顾团团", "title": "哪些文字绝妙到「一句话就是一个故事」？ - 阅读 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31784351/answer/80939418", "vote_cnt": 6908, "name": "坚果叔叔", "title": "哪些文字绝妙到「一句话就是一个故事」？ - 阅读 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31784351/answer/54054431", "vote_cnt": 10452, "name": "滚滚", "title": "哪些文字绝妙到「一句话就是一个故事」？ - 阅读 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22638720/answer/22792536", "vote_cnt": 32826, "name": "沃金", "title": "中国有哪些逆天的文物？ - 中国历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26647643/answer/43210004", "vote_cnt": 6658, "name": "大未来", "title": "什么是 4A 腔？ - 广告 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29087926/answer/43337364", "vote_cnt": 12614, "name": "田燃", "title": "你看过最文艺的一段电影台词是哪一段？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22448808/answer/21477207", "vote_cnt": 7483, "name": "陶拾伍", "title": "有哪些讲无限循环故事的作品？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22448808/answer/117505690", "vote_cnt": 5373, "name": "无色方糖", "title": "有哪些讲无限循环故事的作品？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22448808/answer/21475231", "vote_cnt": 9355, "name": "孙宇豪", "title": "有哪些讲无限循环故事的作品？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22448808/answer/21442923", "vote_cnt": 6539, "name": "陈泽远", "title": "有哪些讲无限循环故事的作品？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34296677/answer/58485570", "vote_cnt": 12000, "name": "马云龙", "title": "有没有两句不同古诗文里的句子连起来却毫无违和感？ - 学习 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28297599/answer/40252133", "vote_cnt": 7297, "name": "Kingdam", "title": "你听过或写过最棒的故事是哪一个？ - 文学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28297599/answer/40258572", "vote_cnt": 12476, "name": "十六", "title": "你听过或写过最棒的故事是哪一个？ - 文学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28297599/answer/40278247", "vote_cnt": 5499, "name": "Conan", "title": "你听过或写过最棒的故事是哪一个？ - 文学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25309580/answer/116791655", "vote_cnt": 6358, "name": "Slivan", "title": "让孩子背诵古诗词、古文有什么意义？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25309580/answer/64060236", "vote_cnt": 12452, "name": "大大畔", "title": "让孩子背诵古诗词、古文有什么意义？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25309580/answer/36271305", "vote_cnt": 16560, "name": "张佳玮", "title": "让孩子背诵古诗词、古文有什么意义？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25309580/answer/36141068", "vote_cnt": 20201, "name": "ze ran", "title": "让孩子背诵古诗词、古文有什么意义？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25309580/answer/30450356", "vote_cnt": 7550, "name": "亚尔斯兰战记", "title": "让孩子背诵古诗词、古文有什么意义？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21933888/answer/20151525", "vote_cnt": 16475, "name": "匿名用户", "title": "你和恋人发过最记忆深刻的短信/微信/段子是什么？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21933888/answer/21174723", "vote_cnt": 21186, "name": "萩茝", "title": "你和恋人发过最记忆深刻的短信/微信/段子是什么？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21933888/answer/20147095", "vote_cnt": 5327, "name": "惡二爺", "title": "你和恋人发过最记忆深刻的短信/微信/段子是什么？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21933888/answer/20147576", "vote_cnt": 6168, "name": "李薇薇", "title": "你和恋人发过最记忆深刻的短信/微信/段子是什么？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23458072/answer/37347651", "vote_cnt": 8720, "name": "gogo", "title": "让你感觉最孤独的一句话是什么？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23171083/answer/46651993", "vote_cnt": 26013, "name": "詹予", "title": "什么样的故事才能称得上是神转折？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23171083/answer/45024565", "vote_cnt": 10287, "name": "李老昧", "title": "什么样的故事才能称得上是神转折？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23171083/answer/44694522", "vote_cnt": 8018, "name": "justjavac", "title": "什么样的故事才能称得上是神转折？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23171083/answer/44582018", "vote_cnt": 18534, "name": "林留山", "title": "什么样的故事才能称得上是神转折？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23171083/answer/45027794", "vote_cnt": 5938, "name": "教父", "title": "什么样的故事才能称得上是神转折？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23171083/answer/55010138", "vote_cnt": 6716, "name": "谢甲德", "title": "什么样的故事才能称得上是神转折？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23171083/answer/137022765", "vote_cnt": 7990, "name": "甲鱼", "title": "什么样的故事才能称得上是神转折？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23171083/answer/44618533", "vote_cnt": 7334, "name": "这个玲玲不太冷", "title": "什么样的故事才能称得上是神转折？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20781320/answer/16945274", "vote_cnt": 13350, "name": "韩冬", "title": "郑渊洁是一个怎样的人？ - 作家 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26433889/answer/32857062", "vote_cnt": 6708, "name": "周意悦", "title": "哪些诗词佳句让你读到的时候感慨颇深？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29246741/answer/49612374", "vote_cnt": 24720, "name": "ZENHO", "title": "「是爱，是暖，是希望，你是人间四月天」，如何对下句？ - 文学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29246741/answer/49617278", "vote_cnt": 7469, "name": "胡小果", "title": "「是爱，是暖，是希望，你是人间四月天」，如何对下句？ - 文学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29246741/answer/49621262", "vote_cnt": 8689, "name": "KE meng", "title": "「是爱，是暖，是希望，你是人间四月天」，如何对下句？ - 文学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23660494/answer/26912458", "vote_cnt": 6827, "name": "张随便", "title": "如何用一句话形容「心动」？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22474581/answer/21482557", "vote_cnt": 6502, "name": "马骏", "title": "科学技术这么发达了，为什么还是有人信教？ - 宗教 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29318344/answer/44576744", "vote_cnt": 8351, "name": "飞行员舒克", "title": "有哪些可怕的故事？ - 人性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29318344/answer/44275763", "vote_cnt": 6655, "name": "张晓宇bixted", "title": "有哪些可怕的故事？ - 人性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29318344/answer/44011737", "vote_cnt": 9182, "name": "临汉", "title": "有哪些可怕的故事？ - 人性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28700153/answer/41958309", "vote_cnt": 9895, "name": "匿名用户", "title": "有没有一些冷门有趣但又深刻的历史故事？ - 中国古代历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22277732/answer/20890376", "vote_cnt": 8746, "name": "Luke LOU", "title": "各地博物馆的镇馆之宝有哪些？ - 艺术 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24315636/answer/28247392", "vote_cnt": 12346, "name": "马骏", "title": "怎样才能把基督徒辩倒？ - 宗教 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19661829/answer/17527623", "vote_cnt": 11791, "name": "Danny W", "title": "经济学入门必读书籍有哪些值得推荐？ - 书籍推荐 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29762631/answer/91032109", "vote_cnt": 5859, "name": "王不二", "title": "历史上有哪些很厉害的骗局？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29762631/answer/64638693", "vote_cnt": 7764, "name": "凡尔礼", "title": "历史上有哪些很厉害的骗局？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29762631/answer/45624460", "vote_cnt": 15824, "name": "豆子", "title": "历史上有哪些很厉害的骗局？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29762631/answer/45626961", "vote_cnt": 22106, "name": "眠眠", "title": "历史上有哪些很厉害的骗局？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29762631/answer/45673118", "vote_cnt": 6300, "name": "小屋住不下", "title": "历史上有哪些很厉害的骗局？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31683668/answer/53129418", "vote_cnt": 18783, "name": "我是一只小萌刀", "title": "历史上有哪些值得尊敬的小人物？ - 中国古代历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31683668/answer/122877505", "vote_cnt": 10879, "name": "马伯庸", "title": "历史上有哪些值得尊敬的小人物？ - 中国古代历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31683668/answer/123089476", "vote_cnt": 6127, "name": "中期精神病人", "title": "历史上有哪些值得尊敬的小人物？ - 中国古代历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31683668/answer/92072953", "vote_cnt": 5691, "name": "阮占文", "title": "历史上有哪些值得尊敬的小人物？ - 中国古代历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28558305/answer/41381018", "vote_cnt": 23237, "name": "杨春晓", "title": "史书上有哪些看起来轻描淡写但品味起来很残酷的话？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22687951/answer/22394746", "vote_cnt": 12662, "name": "沃金", "title": "为什么感觉《三国演义》的谋略比《冰与火之歌》更厉害，而后者却更残酷？ - 小说 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22687951/answer/22355334", "vote_cnt": 6683, "name": "周祚", "title": "为什么感觉《三国演义》的谋略比《冰与火之歌》更厉害，而后者却更残酷？ - 小说 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34412636/answer/59530773", "vote_cnt": 25090, "name": "冷叔叔呀", "title": "外国人吃火锅是一种怎样的体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34412636/answer/58796514", "vote_cnt": 26167, "name": "李泽昊", "title": "外国人吃火锅是一种怎样的体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34412636/answer/59251143", "vote_cnt": 6199, "name": "王健", "title": "外国人吃火锅是一种怎样的体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34412636/answer/58604307", "vote_cnt": 8897, "name": "匿名用户", "title": "外国人吃火锅是一种怎样的体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19878575/answer/36288080", "vote_cnt": 5027, "name": "大头帮主", "title": "如何自学建筑设计？ - 学习方法 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27864852/answer/39007053", "vote_cnt": 22032, "name": "谢熊猫君", "title": "为什么有很多名人让人们警惕人工智能？ - 科技 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31141761/answer/141603037", "vote_cnt": 10090, "name": "郝亮", "title": "什么事件会让你觉得大多数群众是愚蠢的？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31141761/answer/141222713", "vote_cnt": 7653, "name": "冲田总悟", "title": "什么事件会让你觉得大多数群众是愚蠢的？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31141761/answer/60788304", "vote_cnt": 29809, "name": "凡尔礼", "title": "什么事件会让你觉得大多数群众是愚蠢的？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31141761/answer/53919644", "vote_cnt": 25351, "name": "迷路", "title": "什么事件会让你觉得大多数群众是愚蠢的？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31141761/answer/140998280", "vote_cnt": 11232, "name": "李应寰", "title": "什么事件会让你觉得大多数群众是愚蠢的？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31141761/answer/117696586", "vote_cnt": 5639, "name": "邓欣", "title": "什么事件会让你觉得大多数群众是愚蠢的？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31141761/answer/51321393", "vote_cnt": 13400, "name": "Gary Wang", "title": "什么事件会让你觉得大多数群众是愚蠢的？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26055420/answer/42078378", "vote_cnt": 14538, "name": "Kaiser", "title": "1994 年版《三国演义》剧中饰演最传神的角色是哪些？ - 三国人物 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20556104/answer/15470130", "vote_cnt": 5072, "name": "李淼", "title": "北京大妈是一个怎样的群体？ - 北京生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29848086/answer/46695186", "vote_cnt": 14527, "name": "殷守甫", "title": "有哪些我们习以为常，其实似是而非的历史观？ - 中国近代史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29848086/answer/99124103", "vote_cnt": 5659, "name": "Aaron Liu", "title": "有哪些我们习以为常，其实似是而非的历史观？ - 中国近代史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30014729/answer/46453966", "vote_cnt": 6180, "name": "一笑风云过", "title": "如何评价「打车软件 Uber 涉嫌非法营运，广州总部被查处」？ - 互联网 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34469381/answer/58868168", "vote_cnt": 18154, "name": "李超字子躍", "title": "《出师表》应不应该退出中学课本？ - 中国教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34469381/answer/58843434", "vote_cnt": 8002, "name": "陈一奇", "title": "《出师表》应不应该退出中学课本？ - 中国教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22052973/answer/57459396", "vote_cnt": 6457, "name": "八蟹", "title": "如果我来到你的城市，你将带我去哪玩？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23271389/answer/24200045", "vote_cnt": 27551, "name": "树树", "title": "有哪些出租屋实用神器？ - 装修 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23271389/answer/55763499", "vote_cnt": 7176, "name": "邸小七", "title": "有哪些出租屋实用神器？ - 装修 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23271389/answer/29754074", "vote_cnt": 9116, "name": "玅少", "title": "有哪些出租屋实用神器？ - 装修 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23271389/answer/71616301", "vote_cnt": 5531, "name": "九月", "title": "有哪些出租屋实用神器？ - 装修 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27123161/answer/35765955", "vote_cnt": 8311, "name": "逸杯二锅头", "title": "如果在北京一辈子租房，会比买房差在哪里？ - 房地产 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29547414/answer/44868616", "vote_cnt": 19668, "name": "南飞雁归来", "title": "如何看待「医生拒绝给艾滋病人做手术」？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29547414/answer/44771728", "vote_cnt": 8137, "name": "匿名用户", "title": "如何看待「医生拒绝给艾滋病人做手术」？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29547414/answer/78626102", "vote_cnt": 6570, "name": "菲利普医生", "title": "如何看待「医生拒绝给艾滋病人做手术」？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29547414/answer/44818033", "vote_cnt": 97694, "name": "匿名用户", "title": "如何看待「医生拒绝给艾滋病人做手术」？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31950428/answer/54082247", "vote_cnt": 8462, "name": "柒柒", "title": "中学时有哪一件事毁了你一生？ - 大学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32158092/answer/55248596", "vote_cnt": 6950, "name": "雩欢Cherry", "title": "《大圣归来》为什么营销得如此成功？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32158092/answer/55273134", "vote_cnt": 13946, "name": "Jason the Real", "title": "《大圣归来》为什么营销得如此成功？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28162707/answer/59256764", "vote_cnt": 7904, "name": "煦安", "title": "16岁的你在过怎样的生活？ - 生活经历 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31318753/answer/51473069", "vote_cnt": 8311, "name": "护耳大脸", "title": "你在一座城市做过最孤独的一件事是什么？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31318753/answer/51460445", "vote_cnt": 8602, "name": "ALEX YA", "title": "你在一座城市做过最孤独的一件事是什么？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22994872/answer/37728956", "vote_cnt": 7653, "name": "董绵绵", "title": "中学那些不良少女后来怎样了？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28513177/answer/41687125", "vote_cnt": 6284, "name": "匿名用户", "title": "人会预感到死亡吗？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20128241/answer/20973529", "vote_cnt": 14212, "name": "吴铭", "title": "中国房价高的根本原因是什么？ - 房地产 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31622137/answer/52788991", "vote_cnt": 11116, "name": "xiuxiu biu", "title": "哪一幕让你觉得生活不容易？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31622137/answer/52736967", "vote_cnt": 10651, "name": "周防李四", "title": "哪一幕让你觉得生活不容易？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31622137/answer/52863786", "vote_cnt": 6620, "name": "太宰琰", "title": "哪一幕让你觉得生活不容易？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31622137/answer/52751925", "vote_cnt": 6669, "name": "肥肥猫", "title": "哪一幕让你觉得生活不容易？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31638409/answer/53358815", "vote_cnt": 8488, "name": "司木", "title": "三、四线城市生活是一种什么样的体验？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21274651/answer/36004351", "vote_cnt": 7905, "name": "Nemo", "title": "中国科研目前的最大问题及其根源是什么？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28387838/answer/52053811", "vote_cnt": 32701, "name": "Osiris", "title": "为什么很多名牌大学留学生不回国效力？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28387838/answer/58645846", "vote_cnt": 15622, "name": "江宏", "title": "为什么很多名牌大学留学生不回国效力？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28387838/answer/40812196", "vote_cnt": 15573, "name": "ze ran", "title": "为什么很多名牌大学留学生不回国效力？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28387838/answer/56801687", "vote_cnt": 9274, "name": "胡呼呼", "title": "为什么很多名牌大学留学生不回国效力？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30787344/answer/50464332", "vote_cnt": 10711, "name": "谭欣", "title": "你说过或听过最霸气的一句话是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30787344/answer/50544218", "vote_cnt": 5143, "name": "刘柯艾", "title": "你说过或听过最霸气的一句话是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30787344/answer/50233121", "vote_cnt": 5061, "name": "Breaking Thrones", "title": "你说过或听过最霸气的一句话是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26492841/answer/42926052", "vote_cnt": 5336, "name": "林十四", "title": "你见过最高明的「一句话毁掉小清新」是哪个？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28599578/answer/67417981", "vote_cnt": 21911, "name": "巴赫爱喝胡辣汤", "title": "如何恰当地表示愤怒？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28599578/answer/41731242", "vote_cnt": 24714, "name": "Tfifthe", "title": "如何恰当地表示愤怒？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22513722/answer/137928434", "vote_cnt": 7155, "name": "ze ran", "title": "火车票涨价是否能解决春运问题？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27194444/answer/35878860", "vote_cnt": 49888, "name": "顾小人", "title": "被人痛骂之后如何调整好情绪？ - 心理咨询 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27194444/answer/35821245", "vote_cnt": 8649, "name": "陈小川", "title": "被人痛骂之后如何调整好情绪？ - 心理咨询 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25113620/answer/30174655", "vote_cnt": 15236, "name": "Tfifthe", "title": "为什么有些人会害怕接近自己喜欢的人？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25113620/answer/30206628", "vote_cnt": 8641, "name": "李松蔚", "title": "为什么有些人会害怕接近自己喜欢的人？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/25747763", "vote_cnt": 37066, "name": "王霄池", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/30171083", "vote_cnt": 59896, "name": "曾加", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/43376114", "vote_cnt": 43317, "name": "小蛮大人", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/33871712", "vote_cnt": 26560, "name": "曾少贤", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/32839708", "vote_cnt": 5191, "name": "范磊", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/79294357", "vote_cnt": 6185, "name": "汪惟", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/30081019", "vote_cnt": 5989, "name": "Robin", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/55468745", "vote_cnt": 5551, "name": "路西法", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/25160296", "vote_cnt": 6759, "name": "易达", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20894671/answer/34907193", "vote_cnt": 6170, "name": "风泽", "title": "日常生活中有哪些十分钟就能学会并可以终生受用的技能？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22870049/answer/32301588", "vote_cnt": 9905, "name": "饶某人", "title": "贵州有哪些不可错过的景点？为什么？ - 旅游 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20556024/answer/70495889", "vote_cnt": 13363, "name": "简灰", "title": "国内有哪些尚未过度开发的景点值得一去？ - 旅游 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20556024/answer/19220555", "vote_cnt": 11574, "name": "pe wu", "title": "国内有哪些尚未过度开发的景点值得一去？ - 旅游 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21951584/answer/55309828", "vote_cnt": 7884, "name": "梁边妖", "title": "被鬼故事吓到，严重害怕黑暗独处怎么办？ - 心理咨询 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21951584/answer/19834726", "vote_cnt": 16359, "name": "马伯庸", "title": "被鬼故事吓到，严重害怕黑暗独处怎么办？ - 心理咨询 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23525927/answer/25206807", "vote_cnt": 25260, "name": "Wallace", "title": "非洲某些国家不断收到各国救援和物资，为什么一直富不起来？ - 经济 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31185847/answer/58401500", "vote_cnt": 6179, "name": "David ken", "title": "国际社会中，中、美、俄这类国家有哪些经典的耍流氓行为？ - 中国 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20674565/answer/39735580", "vote_cnt": 5794, "name": "唐明", "title": "美国的约会文化是怎样的？ - 美国文化 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28938525/answer/42711979", "vote_cnt": 9459, "name": "冯硕", "title": "有哪些笔记本电脑品牌值得推荐？ - 计算机 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34923596/answer/60818825", "vote_cnt": 16486, "name": "张驰", "title": "买笔记本那些五花八门的配置怎么看？都代表什么意思？ - 科技 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34923596/answer/67889742", "vote_cnt": 14707, "name": "翟羽", "title": "买笔记本那些五花八门的配置怎么看？都代表什么意思？ - 科技 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26598476/answer/33366873", "vote_cnt": 18101, "name": "止语", "title": "为什么我那个当程序员的男朋友，一直特别想要一个机械键盘？ - 网上购物 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26598476/answer/45396765", "vote_cnt": 32194, "name": "小绿", "title": "为什么我那个当程序员的男朋友，一直特别想要一个机械键盘？ - 网上购物 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22524442/answer/26697251", "vote_cnt": 9076, "name": "Christo Gong", "title": "如何快速地对税务知识有一个框架式的了解？ - 税收 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22822843/answer/22760844", "vote_cnt": 8047, "name": "Emerson.Liu", "title": "为什么最近金融圈集体唱衰余额宝？ - 经济学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20339084/answer/137082555", "vote_cnt": 7756, "name": "爱范儿", "title": "五笔输入法落伍了吗？最终会消亡吗？ - 互联网 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20455014/answer/15708080", "vote_cnt": 5375, "name": "匿名用户", "title": "网游的人民币玩家花钱到底有多疯狂？ - 网络游戏 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20323714/answer/77444943", "vote_cnt": 7806, "name": "苏德中", "title": "歧视的根源是什么？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29194776/answer/43560586", "vote_cnt": 5058, "name": "yu jia", "title": "有一个陪自己打游戏的父亲是一种怎样的体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19748747/answer/22182699", "vote_cnt": 17248, "name": "Daniel FC", "title": "如何开始练毛笔书法？ - 书法 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31949281/answer/54675885", "vote_cnt": 19304, "name": "匿名用户", "title": "你在学校期间因何事一举成名全校皆知？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26822988/answer/34343505", "vote_cnt": 16938, "name": "Rachel Wan", "title": "有一个特别酷的爸爸是怎样一番体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26822988/answer/34407626", "vote_cnt": 9618, "name": "匿名用户", "title": "有一个特别酷的爸爸是怎样一番体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23312072/answer/28899666", "vote_cnt": 5594, "name": "朱炫", "title": "20 岁时候的你在想些什么？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23312072/answer/24218182", "vote_cnt": 7246, "name": "羊小雪", "title": "20 岁时候的你在想些什么？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/42159279", "vote_cnt": 18694, "name": "ze ran", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/20753631", "vote_cnt": 15322, "name": "猫助", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/20759708", "vote_cnt": 20847, "name": "张可", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/20750109", "vote_cnt": 57273, "name": "采铜", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/20739196", "vote_cnt": 26305, "name": "Lemon Tree", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/20744929", "vote_cnt": 8084, "name": "国平", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/21278818", "vote_cnt": 7163, "name": "罗登", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/20783349", "vote_cnt": 5922, "name": "吴笛(pimgeek)", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22238159/answer/20750705", "vote_cnt": 5821, "name": "匿名用户", "title": "你有什么相见恨晚的知识想推荐给年轻人？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33220674/answer/57958313", "vote_cnt": 50387, "name": "徐是愚", "title": "我们是如何一步一步走向平庸的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33220674/answer/57897678", "vote_cnt": 15870, "name": "卓扬", "title": "我们是如何一步一步走向平庸的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33220674/answer/58248246", "vote_cnt": 11805, "name": "苏笑笑", "title": "我们是如何一步一步走向平庸的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24660627/answer/42643726", "vote_cnt": 7455, "name": "恶膜的奶爸", "title": "「年轻就该多吃苦」的意义在哪里？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27673968/answer/37936013", "vote_cnt": 14754, "name": "万方中", "title": "你所理解的贫穷是怎样一种感受？你认为如何才能摆脱贫穷对心灵的困扰？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21427006/answer/20522735", "vote_cnt": 9622, "name": "匿名用户", "title": "从小动辄挨打被骂的孩子长大后会有什么心理问题吗？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25699277/answer/55064456", "vote_cnt": 9820, "name": "林晚", "title": "有哪些电影一定要趁年轻看？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25699277/answer/53814519", "vote_cnt": 30417, "name": "迷影", "title": "有哪些电影一定要趁年轻看？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25699277/answer/31410826", "vote_cnt": 6612, "name": "yellow", "title": "有哪些电影一定要趁年轻看？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19736701/answer/112807409", "vote_cnt": 28689, "name": "驯鹿", "title": "《阿甘正传》中的珍妮频频离开阿甘是什么原因？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19736701/answer/23239931", "vote_cnt": 7543, "name": "武震", "title": "《阿甘正传》中的珍妮频频离开阿甘是什么原因？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20262281/answer/25277001", "vote_cnt": 5247, "name": "李老鼠", "title": "同一辆车，发动机的转速、最高转速、扭矩、最大扭矩、功率、最大功率、汽车行驶速度，他们之间相互的逻辑关系是什么？ - 物理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20485849/answer/15260835", "vote_cnt": 21069, "name": "Lucifer", "title": "哪些日本产品是中国产品无法替代的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25150363/answer/35486532", "vote_cnt": 7882, "name": "加刘景长", "title": "如何理解「索尼大法好」？ - 科技 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25150363/answer/31264980", "vote_cnt": 10098, "name": "夏夕空白昼梦", "title": "如何理解「索尼大法好」？ - 科技 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25150363/answer/31136648", "vote_cnt": 21178, "name": "丁一", "title": "如何理解「索尼大法好」？ - 科技 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21100397/answer/67623253", "vote_cnt": 18330, "name": "阿猴HOSEA", "title": "如何才能拍出一张特别好看的自拍照？ - 摄影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21100397/answer/30471967", "vote_cnt": 26478, "name": "穆蠹雠", "title": "如何才能拍出一张特别好看的自拍照？ - 摄影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21100397/answer/29424643", "vote_cnt": 48943, "name": "邹浩坚", "title": "如何才能拍出一张特别好看的自拍照？ - 摄影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21100397/answer/53849992", "vote_cnt": 5044, "name": "虾饺", "title": "如何才能拍出一张特别好看的自拍照？ - 摄影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19980504/answer/68748181", "vote_cnt": 7996, "name": "梅迪", "title": "如何给美食拍照？ - 摄影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19980504/answer/19167764", "vote_cnt": 5338, "name": "叶明", "title": "如何给美食拍照？ - 摄影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24522633/answer/28125647", "vote_cnt": 32275, "name": "咖喱鸡", "title": "鼠疫究竟有多可怕？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29495105/answer/53437549", "vote_cnt": 5294, "name": "Miss.Mars", "title": "高中生买了一个显微镜，可以从哪些开始自己研究？ - 生物学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21113705/answer/17240489", "vote_cnt": 10797, "name": "无良球", "title": "如何欣赏一张照片的构图？有哪些构图强大的摄影作品？ - 摄影技巧 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19814122/answer/25544364", "vote_cnt": 5122, "name": "电子骑士", "title": "有哪些一镜到底，全片只有一个镜头的电影？ - 电影拍摄 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31439131/answer/54788490", "vote_cnt": 5132, "name": "银教授", "title": "坐火车硬座超过20个小时是什么体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31439131/answer/54895486", "vote_cnt": 10386, "name": "斯普特尼克", "title": "坐火车硬座超过20个小时是什么体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22778444/answer/22858080", "vote_cnt": 6837, "name": "闻佳", "title": "如何在家里做好吃的煲仔饭？ - 美食 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22778444/answer/22806318", "vote_cnt": 5206, "name": "王诺诺", "title": "如何在家里做好吃的煲仔饭？ - 美食 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32325755/answer/55585699", "vote_cnt": 12273, "name": "护耳大脸", "title": "如何看待贾玲就恶搞花木兰道歉？ - 新闻 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32325755/answer/55679282", "vote_cnt": 6022, "name": "王不二", "title": "如何看待贾玲就恶搞花木兰道歉？ - 新闻 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22467582/answer/21504075", "vote_cnt": 128175, "name": "庄力", "title": "有哪些很重要又被忽视的炒菜技巧？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22467582/answer/53495841", "vote_cnt": 44635, "name": "薄荷", "title": "有哪些很重要又被忽视的炒菜技巧？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22467582/answer/21500131", "vote_cnt": 11935, "name": "孤独的球头人牛长", "title": "有哪些很重要又被忽视的炒菜技巧？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22467582/answer/70922669", "vote_cnt": 8524, "name": "关雨", "title": "有哪些很重要又被忽视的炒菜技巧？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24242117/answer/60673171", "vote_cnt": 6457, "name": "ChasingDreams", "title": "有哪些既高大上又简单的家常菜？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21348277/answer/77797699", "vote_cnt": 15483, "name": "尔雅", "title": "怎么做出好吃的炸鸡？ - 美食 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21348277/answer/65777958", "vote_cnt": 14954, "name": "小辛zing", "title": "怎么做出好吃的炸鸡？ - 美食 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22468846/answer/21485679", "vote_cnt": 7437, "name": "elyn", "title": "去哪里找到好看又实用的餐具？ - 美食 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22468846/answer/69062643", "vote_cnt": 5781, "name": "橘子柑子柚子橙子", "title": "去哪里找到好看又实用的餐具？ - 美食 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29429914/answer/45240142", "vote_cnt": 6754, "name": "病毒小人", "title": "飞机坠毁前乘客能做点什么？ - 航空 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29429914/answer/45569395", "vote_cnt": 25634, "name": "水5郎 waterfive", "title": "飞机坠毁前乘客能做点什么？ - 航空 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29896587/answer/46000441", "vote_cnt": 17297, "name": "Jesse", "title": "男生什么状态才体现出他已经爱上你了？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29896587/answer/45981545", "vote_cnt": 20667, "name": "周云", "title": "男生什么状态才体现出他已经爱上你了？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29896587/answer/46036951", "vote_cnt": 30312, "name": "Seasee Youl", "title": "男生什么状态才体现出他已经爱上你了？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24636633/answer/61460826", "vote_cnt": 9030, "name": "刺猬姑娘有盔甲", "title": "恋爱关系中最可笑最心酸的事是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24636633/answer/61574935", "vote_cnt": 9262, "name": "笛卡索", "title": "恋爱关系中最可笑最心酸的事是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24636633/answer/61297827", "vote_cnt": 17973, "name": "Helix NG", "title": "恋爱关系中最可笑最心酸的事是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24636633/answer/61464062", "vote_cnt": 10691, "name": "李大琳", "title": "恋爱关系中最可笑最心酸的事是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24636633/answer/61538083", "vote_cnt": 9140, "name": "Seasee Youl", "title": "恋爱关系中最可笑最心酸的事是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24636633/answer/61282730", "vote_cnt": 5590, "name": "张兆杰", "title": "恋爱关系中最可笑最心酸的事是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26931337/answer/35702349", "vote_cnt": 44579, "name": "蔡智夫", "title": "女朋友的哪些缺点最让男人受不了？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26931337/answer/35617936", "vote_cnt": 11286, "name": "匿名用户", "title": "女朋友的哪些缺点最让男人受不了？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29187661/answer/47699482", "vote_cnt": 8915, "name": "Rialto", "title": "你见过最美好的男生是什么样的? - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29187661/answer/47463032", "vote_cnt": 9155, "name": "大喵说多谢", "title": "你见过最美好的男生是什么样的? - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19895789/answer/15512856", "vote_cnt": 39281, "name": "张佳玮", "title": "你爱上某一个人时，最奇特的一次是因为什么？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19895789/answer/15509246", "vote_cnt": 8400, "name": "yolfilm", "title": "你爱上某一个人时，最奇特的一次是因为什么？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31457081/answer/52165692", "vote_cnt": 9147, "name": "漂泊中忘却", "title": "放下一个很爱的人是什么心情？ - 恋爱心理 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31457081/answer/54056556", "vote_cnt": 11699, "name": "护耳大脸", "title": "放下一个很爱的人是什么心情？ - 恋爱心理 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21517436/answer/24142010", "vote_cnt": 12632, "name": "夜雪", "title": "什么是真正的吃货？ - 生活方式 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21517436/answer/25669462", "vote_cnt": 7476, "name": "赵四ZS", "title": "什么是真正的吃货？ - 生活方式 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25401683/answer/30671600", "vote_cnt": 7852, "name": "惊叫唤", "title": "放弃一个喜欢很久的人什么感觉？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20883403/answer/17200672", "vote_cnt": 19375, "name": "Will Zhang", "title": "如何做到长时间（4 个小时以上）精神专注？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20767176/answer/50229349", "vote_cnt": 6720, "name": "羊迪", "title": "你最尴尬的一次经历是怎样的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20767176/answer/50401576", "vote_cnt": 21224, "name": "曹血芹", "title": "你最尴尬的一次经历是怎样的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20767176/answer/33666419", "vote_cnt": 25868, "name": "李傲文", "title": "你最尴尬的一次经历是怎样的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20767176/answer/36078967", "vote_cnt": 6424, "name": "童梦计划李轶", "title": "你最尴尬的一次经历是怎样的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20767176/answer/130374805", "vote_cnt": 11663, "name": "匿名用户", "title": "你最尴尬的一次经历是怎样的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26981346/answer/43102163", "vote_cnt": 20910, "name": "贺羽", "title": "为什么中国的航空发动机技术这么落后？ - 材料 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21150495/answer/61123994", "vote_cnt": 6127, "name": "Gold RIch Money", "title": "麻醉过后做手术，在手术中醒来，会发生什么状况？ - 医疗 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21150495/answer/17348419", "vote_cnt": 11025, "name": "郭栩冶", "title": "麻醉过后做手术，在手术中醒来，会发生什么状况？ - 医疗 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20745287/answer/22304813", "vote_cnt": 9205, "name": "李元霸", "title": "怎么购买一份合适的重疾险组合？ - 金融 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29713410/answer/48165236", "vote_cnt": 7880, "name": "黄潇杨", "title": "一场手术十多个小时医生的主要工作是什么？ - 阅读 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23438932/answer/110296866", "vote_cnt": 5056, "name": "LeeSimon", "title": "鲶鱼真的非常脏吗？ - 食品安全 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21682734/answer/19003806", "vote_cnt": 10973, "name": "jyo gan", "title": "为什么大家对推迟退休年龄这么大意见？ - 社会保险 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26952054/answer/35875921", "vote_cnt": 6530, "name": "Suede Zhu", "title": "人类制造的最不可思议的机器有哪些？ - 设计 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20692856/answer/57608090", "vote_cnt": 20038, "name": "Jason Guo", "title": "奶茶里的奶和茶分别是什么成分？对人体有危害吗？ - 食品安全 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19899222/answer/51831687", "vote_cnt": 11634, "name": "许某", "title": "为什么朝鲜战争美国人没能打赢？ - 历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19899222/answer/25836610", "vote_cnt": 8641, "name": "龙吟随风", "title": "为什么朝鲜战争美国人没能打赢？ - 历史 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21602621/answer/30402937", "vote_cnt": 26049, "name": "鸑鷟鹓鶵", "title": "如何评价苏联的军工水平？ - 军事 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20608227/answer/29856008", "vote_cnt": 36444, "name": "庄时利和", "title": "一沾酒就脸红的人能锻炼出酒量吗？ - 生活常识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20608227/answer/16089233", "vote_cnt": 5452, "name": "Moderation", "title": "一沾酒就脸红的人能锻炼出酒量吗？ - 生活常识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19819070/answer/27829369", "vote_cnt": 8632, "name": "蔓玫", "title": "如何减轻切辣椒造成手指的灼烧感？ - 生活常识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21189435/answer/17466292", "vote_cnt": 13071, "name": "高科", "title": "真正合理的健身训练流程是什么？ - 健康 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22119625/answer/20367526", "vote_cnt": 6067, "name": "Cere", "title": "打雪仗有哪些必备技能、装备以及如何打出风采？ - 游戏 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29077475/answer/44282055", "vote_cnt": 18516, "name": "青少", "title": "在你的专业里，有什么基础知识是和普通人的认识不相符的？ - 生活常识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29077475/answer/44010975", "vote_cnt": 6261, "name": "钱程", "title": "在你的专业里，有什么基础知识是和普通人的认识不相符的？ - 生活常识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20794842/answer/16205530", "vote_cnt": 15660, "name": "Luxenius", "title": "胖子和瘦子剖开之后的对比真的是这样的吗？ - 健康 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20794842/answer/63849964", "vote_cnt": 7515, "name": "匿名用户", "title": "胖子和瘦子剖开之后的对比真的是这样的吗？ - 健康 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20794842/answer/29054170", "vote_cnt": 17733, "name": "刺猬", "title": "胖子和瘦子剖开之后的对比真的是这样的吗？ - 健康 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20794842/answer/123579491", "vote_cnt": 5505, "name": "李孤独", "title": "胖子和瘦子剖开之后的对比真的是这样的吗？ - 健康 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20436327/answer/22448970", "vote_cnt": 7465, "name": "黄一孟", "title": "长时间坐着工作，如何选择舒服的椅子？ - 健康 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29124536/answer/43558571", "vote_cnt": 9080, "name": "talich", "title": "为什么科普在中国进行得如此艰难？国外的科普环境又是怎样的？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/35255031/answer/62387883", "vote_cnt": 5234, "name": "皮特不会飞", "title": "你的身材不配你的脸是一种怎样的体验？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28724961/answer/51227925", "vote_cnt": 7949, "name": "鹿小天使", "title": "男生由丑变帅后是什么样的感觉？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25378124/answer/101107506", "vote_cnt": 19463, "name": "匿名用户", "title": "体重 120 斤和 100 斤的世界是完全不同的吗？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25378124/answer/104400605", "vote_cnt": 7745, "name": "阿飞Kathy", "title": "体重 120 斤和 100 斤的世界是完全不同的吗？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25378124/answer/89456243", "vote_cnt": 14048, "name": "鹿小芋", "title": "体重 120 斤和 100 斤的世界是完全不同的吗？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25378124/answer/41534665", "vote_cnt": 11988, "name": "Echo大头", "title": "体重 120 斤和 100 斤的世界是完全不同的吗？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25378124/answer/31502881", "vote_cnt": 17206, "name": "周为", "title": "体重 120 斤和 100 斤的世界是完全不同的吗？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33303479/answer/61883435", "vote_cnt": 5471, "name": "Tiannan Hu", "title": "为什么没有研制出像鱼鳃一样直接从水里面取氧的水肺？ - 科研 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20765142/answer/53602877", "vote_cnt": 7058, "name": "莓什泡", "title": "女孩子平时在家里有哪些健身锻炼的好方法？ - 女性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20765142/answer/52335843", "vote_cnt": 9495, "name": "恶膜的奶爸", "title": "女孩子平时在家里有哪些健身锻炼的好方法？ - 女性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20765142/answer/16106728", "vote_cnt": 6306, "name": "高科", "title": "女孩子平时在家里有哪些健身锻炼的好方法？ - 女性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20765142/answer/57102972", "vote_cnt": 6066, "name": "雪融", "title": "女孩子平时在家里有哪些健身锻炼的好方法？ - 女性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28208021/answer/39955696", "vote_cnt": 12348, "name": "雷幺幺", "title": "爸妈感情好了一辈子的孩子是什么感觉？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23384718/answer/27377701", "vote_cnt": 6022, "name": "Summer", "title": "该不该和自己不喜欢的相亲对象步入婚姻？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23384718/answer/27376648", "vote_cnt": 18721, "name": "懦以", "title": "该不该和自己不喜欢的相亲对象步入婚姻？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24937466/answer/29684100", "vote_cnt": 10439, "name": "采铜", "title": "长远看，妻子漂亮很重要吗？ - 婚姻 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24937466/answer/29625046", "vote_cnt": 11937, "name": "酋长萨尔", "title": "长远看，妻子漂亮很重要吗？ - 婚姻 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24937466/answer/33878763", "vote_cnt": 5595, "name": "macguffin", "title": "长远看，妻子漂亮很重要吗？ - 婚姻 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20036850/answer/42552171", "vote_cnt": 9801, "name": "小兽Michi", "title": "你希望自己的婚礼是怎样的？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28151058/answer/39773268", "vote_cnt": 6457, "name": "王雪岩", "title": "为什么有些父母会经常对子女冷嘲热讽？ - 家庭 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20484952/answer/16169049", "vote_cnt": 5296, "name": "疏影", "title": "你小时候有哪些神奇的误解？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22577318/answer/28444727", "vote_cnt": 8063, "name": "Sherry Li", "title": "你唱歌把人唱哭的经历是怎样的？听到哪首歌忍不住泪流满面？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25216495/answer/34896092", "vote_cnt": 9455, "name": "张小放", "title": "销售的最高境界是什么？ - 市场营销 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25150716/answer/45120785", "vote_cnt": 20547, "name": "朱聿欣", "title": "肯德基和麦当劳的优惠券意义在哪里？为何不直接降价？ - 经济学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27202393/answer/35760292", "vote_cnt": 5960, "name": "匿名用户", "title": "在庭审中有哪些搞笑、离奇的事？ - 生活经历 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27202393/answer/46936432", "vote_cnt": 10438, "name": "千年放浪", "title": "在庭审中有哪些搞笑、离奇的事？ - 生活经历 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27202393/answer/35788148", "vote_cnt": 8834, "name": "陈忆卿", "title": "在庭审中有哪些搞笑、离奇的事？ - 生活经历 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29288179/answer/46824496", "vote_cnt": 5442, "name": "henu", "title": "什么样的应届生值得招？ - 大学生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31415201/answer/51910386", "vote_cnt": 6345, "name": "bib gao", "title": "你做过最坑爹的事情是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31415201/answer/55746658", "vote_cnt": 5877, "name": "万俟撸撸君", "title": "你做过最坑爹的事情是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20267282/answer/17003624", "vote_cnt": 8724, "name": "唐若", "title": "你经历过最尴尬的事情是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20267282/answer/17039045", "vote_cnt": 5858, "name": "匿名用户", "title": "你经历过最尴尬的事情是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20267282/answer/17420930", "vote_cnt": 5142, "name": "匿名用户", "title": "你经历过最尴尬的事情是什么？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21112299/answer/17262757", "vote_cnt": 10965, "name": "匿名用户", "title": "你做过最低调的事情是什么？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21112299/answer/19930413", "vote_cnt": 6473, "name": "匿名用户", "title": "你做过最低调的事情是什么？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23351368/answer/24315193", "vote_cnt": 9860, "name": "纽约老李校长", "title": "大学生如何在毕业前准备好未来的职业发展方向？ - 职业规划 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34666456/answer/60405069", "vote_cnt": 13333, "name": "赵老三", "title": "作为 HR，有哪些「一般人我都告诉他，但是他都不听」的忠告？ - 职场 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31342079/answer/52051702", "vote_cnt": 6656, "name": "芈十四", "title": "如何看待大一学生 50 元一天发传单的这种现象？ - 大学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32288212/answer/56477581", "vote_cnt": 10119, "name": "停用", "title": "你在游戏里做过最无聊的事情是什么？ - 生活经历 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30222230/answer/47320115", "vote_cnt": 10384, "name": "小早川", "title": "农村 90 后一代该怎么走出农村生活的困境？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21181450/answer/30522966", "vote_cnt": 10403, "name": "楠爷", "title": "为什么老干妈陶华碧说「我坚决不上市」「那是骗人家的钱」？ - 投资 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21181450/answer/30507944", "vote_cnt": 5721, "name": "沈一冰", "title": "为什么老干妈陶华碧说「我坚决不上市」「那是骗人家的钱」？ - 投资 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22333976/answer/21133098", "vote_cnt": 14517, "name": "唐僧同志", "title": "领导喜欢坚持己见还是逆来顺受的员工？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21149829/answer/139721098", "vote_cnt": 15912, "name": "Sonder", "title": "什么样的朋友是真正的好朋友？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21149829/answer/132225914", "vote_cnt": 17362, "name": "Alice大鲸鱼", "title": "什么样的朋友是真正的好朋友？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21149829/answer/53533832", "vote_cnt": 6460, "name": "张子文", "title": "什么样的朋友是真正的好朋友？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21149829/answer/20131937", "vote_cnt": 13082, "name": "李斌", "title": "什么样的朋友是真正的好朋友？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21149829/answer/131792951", "vote_cnt": 10409, "name": "杨妖妖", "title": "什么样的朋友是真正的好朋友？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21149829/answer/132507393", "vote_cnt": 10258, "name": "李燃末", "title": "什么样的朋友是真正的好朋友？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27571287/answer/46297257", "vote_cnt": 18842, "name": "一笑风云过", "title": "能吃是一种怎样的体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27641246/answer/57517688", "vote_cnt": 7023, "name": "住在郊外的上帝", "title": "有一个做饭难吃的老妈是怎样一种体验？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20024970/answer/13715805", "vote_cnt": 6131, "name": "Raymond Wang", "title": "对你职业生涯帮助最大的习惯是什么？它是如何帮助你的？ - 职业规划 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20024970/answer/30890621", "vote_cnt": 8914, "name": "赵文泽", "title": "对你职业生涯帮助最大的习惯是什么？它是如何帮助你的？ - 职业规划 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21834821/answer/34355981", "vote_cnt": 10252, "name": "黄鹤", "title": "评论自杀的人「太脆弱，这么点事就要自杀」合适吗？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22590902/answer/55182189", "vote_cnt": 47428, "name": "MrHua", "title": "如何白手起家挣到一百万？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22590902/answer/68760358", "vote_cnt": 7637, "name": "猪铁", "title": "如何白手起家挣到一百万？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22590902/answer/67627576", "vote_cnt": 5258, "name": "张伟", "title": "如何白手起家挣到一百万？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21726594/answer/21209922", "vote_cnt": 5144, "name": "采铜", "title": "同样 25 岁，为什么有的人事业小成、家庭幸福，有的人却还在一无所有的起点上？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27705220/answer/37816342", "vote_cnt": 11504, "name": "至尊宝", "title": "月薪 2 万元是一种怎样的人生体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27705220/answer/37810336", "vote_cnt": 5860, "name": "杨超", "title": "月薪 2 万元是一种怎样的人生体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27705220/answer/47916668", "vote_cnt": 12380, "name": "留小鱼", "title": "月薪 2 万元是一种怎样的人生体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23316612/answer/24220461", "vote_cnt": 8770, "name": "王夏夏", "title": "有哪些著名的被演砸的角色？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29650355/answer/45789789", "vote_cnt": 9331, "name": "马小明", "title": "有哪些猜得中开头却猜不中结尾的故事？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29650355/answer/51158749", "vote_cnt": 6936, "name": "谎言豆沙包", "title": "有哪些猜得中开头却猜不中结尾的故事？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26062366/answer/57335442", "vote_cnt": 12010, "name": "一时不知如何开口", "title": "如何看待「很多人不读书一样当老板挣大钱」的说法？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26062366/answer/58068947", "vote_cnt": 6300, "name": "护耳大脸", "title": "如何看待「很多人不读书一样当老板挣大钱」的说法？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28667922/answer/42141313", "vote_cnt": 15436, "name": "朱炫", "title": "你对放弃高考准备去上海图书馆自修的男孩有怎样的建议？ - 高考 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32171315/answer/55096265", "vote_cnt": 8750, "name": "艾迪", "title": "在出差旅行、酒店住宿中，有哪些设计令人留心忘返？ - 旅游 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24098569/answer/26704236", "vote_cnt": 10627, "name": "匿名用户", "title": "30 岁年薪 20 万算不算很失败？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34511018/answer/58969482", "vote_cnt": 30634, "name": "飞行员舒克", "title": "世界上让你觉得最美好的人是谁？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34511018/answer/59231674", "vote_cnt": 5149, "name": "匿名用户", "title": "世界上让你觉得最美好的人是谁？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23802668/answer/140520756", "vote_cnt": 8619, "name": "浮沉", "title": "有哪些让你感叹「写出这种句子的人，我十辈子都追不上了」的句子？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23802668/answer/57474179", "vote_cnt": 11812, "name": "燕仰", "title": "有哪些让你感叹「写出这种句子的人，我十辈子都追不上了」的句子？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23802668/answer/37806898", "vote_cnt": 17219, "name": "刘冉", "title": "有哪些让你感叹「写出这种句子的人，我十辈子都追不上了」的句子？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23802668/answer/82941934", "vote_cnt": 7992, "name": "白殿", "title": "有哪些让你感叹「写出这种句子的人，我十辈子都追不上了」的句子？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23802668/answer/84570778", "vote_cnt": 7336, "name": "数学史大叔", "title": "有哪些让你感叹「写出这种句子的人，我十辈子都追不上了」的句子？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20395761/answer/98048525", "vote_cnt": 8663, "name": "River哥", "title": "成长过程中，哪些道理让人懂之恨晚？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20395761/answer/96780975", "vote_cnt": 6052, "name": "口译少女", "title": "成长过程中，哪些道理让人懂之恨晚？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20395761/answer/44292338", "vote_cnt": 12443, "name": "磐僧", "title": "成长过程中，哪些道理让人懂之恨晚？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20395761/answer/45733868", "vote_cnt": 6905, "name": "东坡夜奔", "title": "成长过程中，哪些道理让人懂之恨晚？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20395761/answer/24452212", "vote_cnt": 6802, "name": "罗登", "title": "成长过程中，哪些道理让人懂之恨晚？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26024602/answer/41912597", "vote_cnt": 5146, "name": "张佳玮", "title": "为什么很多人满足于此生仅拿份工资，做一份朝九晚六的工作？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22169158/answer/20541031", "vote_cnt": 6039, "name": "王诺诺", "title": "你暗恋的时候是什么样子的？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20151457/answer/14141658", "vote_cnt": 54272, "name": "yolfilm", "title": "二十多岁该做些什么，将来才不会后悔？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20151457/answer/20911310", "vote_cnt": 9694, "name": "君临", "title": "二十多岁该做些什么，将来才不会后悔？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34515115/answer/58961913", "vote_cnt": 6968, "name": "赵世奇", "title": "发生化工爆炸事故时应如何自救？ - 天津塘沽特大爆炸事故 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20999123/answer/19062022", "vote_cnt": 7325, "name": "云上彩", "title": "什么样的感觉让你自己觉得爱上了一个人？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32177705/answer/83280007", "vote_cnt": 17284, "name": "江夜雨", "title": "为什么有些父母喜欢用语言伤害孩子？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32177705/answer/55769374", "vote_cnt": 5309, "name": "罗林", "title": "为什么有些父母喜欢用语言伤害孩子？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28184567/answer/39898658", "vote_cnt": 27958, "name": "ze ran", "title": "为什么嗑瓜子可以嗑半个小时甚至一个小时以上，看书学习却不可以？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30179103/answer/48209488", "vote_cnt": 7006, "name": "Charles Wang", "title": "毕业生各种煽情，感情真的那么深吗？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30179103/answer/48000624", "vote_cnt": 5604, "name": "夜来疯语声", "title": "毕业生各种煽情，感情真的那么深吗？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24521242/answer/28099965", "vote_cnt": 24001, "name": "Sanfan", "title": "人生中最寂寞的事情是什麼？ - 孤独 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31963067/answer/54169863", "vote_cnt": 7240, "name": "匿名用户", "title": "人究竟能抠到什么程度？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31963067/answer/54079066", "vote_cnt": 17509, "name": "郭永年", "title": "人究竟能抠到什么程度？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34530826/answer/59413827", "vote_cnt": 6205, "name": "林兰香", "title": "存在「Burn Down」原则吗？ - 化学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34514625/answer/59083189", "vote_cnt": 6678, "name": "秦峰", "title": "如何看待 8 月 12 日夜天津市滨海新区爆炸事故？ - 如何评价 X - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34519421/answer/59049941", "vote_cnt": 16872, "name": "倪一宁", "title": "发生灾难时在社交平台上各种祈福的人是怎样的一种心态？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29971398/answer/52609789", "vote_cnt": 6232, "name": "匿名用户", "title": "单身究竟有多好？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30878669/answer/50295661", "vote_cnt": 14570, "name": "冯昱尧", "title": "是否应该取消中小学强制性文言文学习？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30878669/answer/50268154", "vote_cnt": 7423, "name": "川崎歺又米", "title": "是否应该取消中小学强制性文言文学习？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30878669/answer/90932878", "vote_cnt": 6249, "name": "Jude", "title": "是否应该取消中小学强制性文言文学习？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30878669/answer/50020751", "vote_cnt": 5543, "name": "大冰", "title": "是否应该取消中小学强制性文言文学习？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23196877/answer/24212620", "vote_cnt": 10597, "name": "团鼠", "title": "老的感觉是什么？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23196877/answer/82225191", "vote_cnt": 5507, "name": "熊群", "title": "老的感觉是什么？ - 人生 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31624321/answer/52793238", "vote_cnt": 15839, "name": "sunny", "title": "如何评价重庆医院医生集体拒绝给医闹进行救治？ - 新闻 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28409136/answer/40799569", "vote_cnt": 70358, "name": "肥肥猫", "title": "就 2015 年初而言，国人的审美大体处于一个什么样的水平？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28409136/answer/41053237", "vote_cnt": 9649, "name": "匿名用户", "title": "就 2015 年初而言，国人的审美大体处于一个什么样的水平？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28891984/answer/43763599", "vote_cnt": 21879, "name": "David Rand", "title": "外国人写汉字有多难？ - 语言 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29129681/answer/43446521", "vote_cnt": 8897, "name": "村上秋裤", "title": "如何对待逐渐疏远的朋友？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29129681/answer/43399822", "vote_cnt": 13360, "name": "匡靖", "title": "如何对待逐渐疏远的朋友？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29129681/answer/79205335", "vote_cnt": 13825, "name": "张兆杰", "title": "如何对待逐渐疏远的朋友？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29129681/answer/90150883", "vote_cnt": 5171, "name": "李莎莎", "title": "如何对待逐渐疏远的朋友？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33032878/answer/55858282", "vote_cnt": 5238, "name": "一笑风云过", "title": "孩子不肯吃饭怎么办？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25097604/answer/37520739", "vote_cnt": 8792, "name": "芝士就是力量", "title": "男生应该怎么穿衣服既低调又不俗气？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25695912/answer/31387465", "vote_cnt": 23038, "name": "罗登", "title": "男生有文化到底有多重要？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19793676/answer/68529559", "vote_cnt": 6506, "name": "小庄PetitFancy", "title": "对于外国人来说，汉语是门很难学的语言吗？ - 语言学习 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24330721/answer/28065810", "vote_cnt": 28557, "name": "Charles Wang", "title": "这是一个看脸的世界吗？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27702564/answer/41500687", "vote_cnt": 44601, "name": "尼克六六", "title": "每天坚持英语学习为什么还是学不好？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27702564/answer/38067746", "vote_cnt": 28075, "name": "Bart", "title": "每天坚持英语学习为什么还是学不好？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27702564/answer/123471437", "vote_cnt": 6343, "name": "黄白小猫", "title": "每天坚持英语学习为什么还是学不好？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27702564/answer/53669260", "vote_cnt": 10714, "name": "寺主人", "title": "每天坚持英语学习为什么还是学不好？ - 教育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20611196/answer/15708959", "vote_cnt": 8553, "name": "叶俊廷", "title": "女孩如何培养穿着打扮的品味？成年后，如何继续提升？ - 女性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21195305/answer/40266226", "vote_cnt": 7543, "name": "晴明", "title": "为什么越长大人们就越关注外貌？ - 审美 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31192007/answer/131979255", "vote_cnt": 10474, "name": "巽儿", "title": "男生有多介意女生的疤痕？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31192007/answer/123590209", "vote_cnt": 11211, "name": "血染莫字旗", "title": "男生有多介意女生的疤痕？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31192007/answer/51934512", "vote_cnt": 5403, "name": "ACT在昌平", "title": "男生有多介意女生的疤痕？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31192007/answer/56876347", "vote_cnt": 7118, "name": "kaidi Guo", "title": "男生有多介意女生的疤痕？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31192007/answer/50989219", "vote_cnt": 12026, "name": "雨萌", "title": "男生有多介意女生的疤痕？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24266716/answer/30973945", "vote_cnt": 6325, "name": "匿名用户", "title": "如何优雅地用一句话表达对一个人的想念？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24266716/answer/30801307", "vote_cnt": 8409, "name": "野火堆", "title": "如何优雅地用一句话表达对一个人的想念？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24006433/answer/26390300", "vote_cnt": 5632, "name": "Aqua Blue", "title": "女人眼中，男人什么时刻最有男人样？ - 两性吸引 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23617896/answer/25147080", "vote_cnt": 26259, "name": "贾珺", "title": "女人的温柔从哪里体现？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23617896/answer/26021198", "vote_cnt": 6082, "name": "匿名用户", "title": "女人的温柔从哪里体现？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23617896/answer/30788856", "vote_cnt": 5799, "name": "潘小能", "title": "女人的温柔从哪里体现？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23617896/answer/123056061", "vote_cnt": 11400, "name": "李良", "title": "女人的温柔从哪里体现？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23617896/answer/25140845", "vote_cnt": 7673, "name": "鬼龙红郎的妹妹", "title": "女人的温柔从哪里体现？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23617896/answer/90151243", "vote_cnt": 5794, "name": "海兔子", "title": "女人的温柔从哪里体现？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23617896/answer/25149108", "vote_cnt": 6726, "name": "你将相思赋予谁", "title": "女人的温柔从哪里体现？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24507797/answer/28159949", "vote_cnt": 7579, "name": "浮生", "title": "女生靠追，还是靠吸引？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24507797/answer/28082777", "vote_cnt": 13436, "name": "朱炫", "title": "女生靠追，还是靠吸引？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27690446/answer/37818150", "vote_cnt": 11136, "name": "大momo", "title": "在知乎看到很多优秀的女孩，可是生活中几乎遇不到怎么办？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27690446/answer/37674711", "vote_cnt": 5616, "name": "Mr NeverDie", "title": "在知乎看到很多优秀的女孩，可是生活中几乎遇不到怎么办？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27690446/answer/37791907", "vote_cnt": 5141, "name": "铁衣", "title": "在知乎看到很多优秀的女孩，可是生活中几乎遇不到怎么办？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20959982/answer/41651443", "vote_cnt": 42097, "name": "梦觉", "title": "女生喜欢一个男生的时候眼神是什么样子？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20959982/answer/17270693", "vote_cnt": 8300, "name": "onetwo", "title": "女生喜欢一个男生的时候眼神是什么样子？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20959982/answer/17987106", "vote_cnt": 15224, "name": "深夜里", "title": "女生喜欢一个男生的时候眼神是什么样子？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20959982/answer/16739735", "vote_cnt": 9294, "name": "龚伟", "title": "女生喜欢一个男生的时候眼神是什么样子？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20959982/answer/16757230", "vote_cnt": 5014, "name": "洪小东", "title": "女生喜欢一个男生的时候眼神是什么样子？ - 情感 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20034902/answer/26847154", "vote_cnt": 7686, "name": "Sherry Li", "title": "如何培养人格魅力？ - 价值观 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26855049/answer/71549923", "vote_cnt": 14335, "name": "石头布", "title": "东亚人种的优势是什么？ - 生物学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26855049/answer/35121006", "vote_cnt": 7383, "name": "Keith Li", "title": "东亚人种的优势是什么？ - 生物学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25595356/answer/52747986", "vote_cnt": 5609, "name": "阿喂", "title": "如何一本正经地胡说八道? - 脑洞 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33947484/answer/58880916", "vote_cnt": 11647, "name": "提提", "title": "人所能做到的最大的善良是什么？ - 人性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33947484/answer/58914939", "vote_cnt": 10961, "name": "飞天虎哥", "title": "人所能做到的最大的善良是什么？ - 人性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33947484/answer/58636079", "vote_cnt": 11062, "name": "许一", "title": "人所能做到的最大的善良是什么？ - 人性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33947484/answer/58822787", "vote_cnt": 14958, "name": "王狗蛋", "title": "人所能做到的最大的善良是什么？ - 人性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33947484/answer/58604312", "vote_cnt": 5671, "name": "天沐麓安", "title": "人所能做到的最大的善良是什么？ - 人性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31472295/answer/52119977", "vote_cnt": 7630, "name": "玉漏迟", "title": "哪些行为会使男性显得俗不可耐？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24181268/answer/99331649", "vote_cnt": 13295, "name": "万德尔wonder", "title": "男生怎么样才能留长头发？ - 时尚 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24181268/answer/43046180", "vote_cnt": 8276, "name": "LC振荡", "title": "男生怎么样才能留长头发？ - 时尚 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30646233/answer/56278442", "vote_cnt": 12225, "name": "戴乐", "title": "战斗机飞行员坐过山车是什么感觉？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/35023577/answer/63724829", "vote_cnt": 11001, "name": "恶膜的奶爸", "title": "在饭桌上遇到不友善的长辈如何优雅地回应？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/35023577/answer/62149394", "vote_cnt": 7153, "name": "Neerom", "title": "在饭桌上遇到不友善的长辈如何优雅地回应？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23913984/answer/91104485", "vote_cnt": 10825, "name": "River哥", "title": "哪些思维方式是你刻意训练过的？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23913984/answer/111272944", "vote_cnt": 12964, "name": "巴赫爱喝胡辣汤", "title": "哪些思维方式是你刻意训练过的？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23913984/answer/29414843", "vote_cnt": 19805, "name": "温烟", "title": "哪些思维方式是你刻意训练过的？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23913984/answer/100958833", "vote_cnt": 7219, "name": "Susana Zhang", "title": "哪些思维方式是你刻意训练过的？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21650774/answer/117916322", "vote_cnt": 7874, "name": "高黑科技", "title": "怎么知道自己是一个怎样的人？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21650774/answer/41320630", "vote_cnt": 25715, "name": "王小坏", "title": "怎么知道自己是一个怎样的人？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/16424521", "vote_cnt": 26634, "name": "匿名用户", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/80697019", "vote_cnt": 34136, "name": "Mizutsune", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/85624283", "vote_cnt": 14120, "name": "匿名用户", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/16482898", "vote_cnt": 13806, "name": "卢一菲", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/15115386", "vote_cnt": 15489, "name": "不二", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/16138254", "vote_cnt": 13088, "name": "卡卡", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/16422304", "vote_cnt": 13320, "name": "小静", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/82255797", "vote_cnt": 8251, "name": "周铂", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/13195326", "vote_cnt": 22897, "name": "李淼", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19866127/answer/78641290", "vote_cnt": 30894, "name": "猫三娘子", "title": "陌生人的哪些事，让你感触很深？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29098290/answer/43235948", "vote_cnt": 27656, "name": "灰小机", "title": "刚拿到驾照的人上高速有潜在危险吗？ - 驾驶 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23201152/answer/39753650", "vote_cnt": 8657, "name": "马伯庸", "title": "如何戒掉装逼？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23201152/answer/39745803", "vote_cnt": 19438, "name": "朱炫", "title": "如何戒掉装逼？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27910572/answer/39609627", "vote_cnt": 44002, "name": "毛羽立", "title": "朋友圈里常发什么样的文字图片的人比较讨厌？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27910572/answer/39656136", "vote_cnt": 9752, "name": "耳可黑犬", "title": "朋友圈里常发什么样的文字图片的人比较讨厌？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27910572/answer/39629758", "vote_cnt": 8242, "name": "李遥岑", "title": "朋友圈里常发什么样的文字图片的人比较讨厌？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27223987/answer/35750869", "vote_cnt": 7594, "name": "蔓玫", "title": "古人是怎么洗头发的？ - 古代 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21179963/answer/44389381", "vote_cnt": 27430, "name": "殷孟岚", "title": "你见过或经历过哪些令人感动的陌生人的善举？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21179963/answer/44551651", "vote_cnt": 5135, "name": "pp爱夏天", "title": "你见过或经历过哪些令人感动的陌生人的善举？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21179963/answer/44854845", "vote_cnt": 5939, "name": "李旭", "title": "你见过或经历过哪些令人感动的陌生人的善举？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/35322224/answer/62269959", "vote_cnt": 7173, "name": "唐缺", "title": "如何看待范玮琪在阅兵期间晒娃遭网友围攻？ - 如何评价 X - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26004407/answer/54286144", "vote_cnt": 10793, "name": "Hannibal Lecter", "title": "古往今来世界上有哪些著名的或者常见的强盗逻辑？ - 逻辑学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28746197/answer/41971613", "vote_cnt": 14347, "name": "magasa", "title": "如何评价徐峥「一个人犯了错，凭什么诛连九族？」微博下网民的反应？ - 电影 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28703980/answer/41842915", "vote_cnt": 12772, "name": "小李", "title": "如何看待新闻「上海一名交警被豪车拖行近 10 米身亡，其妻即将临盆」？ - 如何评价 X - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21005463/answer/22556558", "vote_cnt": 14072, "name": "祁骞", "title": "如果妈妈比女儿漂亮，那么两个人分别会有怎样的心理体验？ - 女性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21005463/answer/20446845", "vote_cnt": 5322, "name": "郦橙 锦妖", "title": "如果妈妈比女儿漂亮，那么两个人分别会有怎样的心理体验？ - 女性 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20287688/answer/41279046", "vote_cnt": 8511, "name": "熊熊熊熊熊熊熊", "title": "头发干燥并且烫过，沙发特别严重，怎么改善？有什么好的产品推荐吗？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33491400/answer/56675070", "vote_cnt": 7729, "name": "匿名用户", "title": "如何看待释永信被署名举报\"私生活混乱、玩弄女人\"这一事件？ - 如何评价 X - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33491400/answer/56734523", "vote_cnt": 6240, "name": "灵山求我", "title": "如何看待释永信被署名举报\"私生活混乱、玩弄女人\"这一事件？ - 如何评价 X - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30153233/answer/46976019", "vote_cnt": 39257, "name": "陈子茉", "title": "如何评价解放军参加红场阅兵彩排唱《喀秋莎》？ - 俄罗斯 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30153233/answer/47004319", "vote_cnt": 8356, "name": "谢小龙", "title": "如何评价解放军参加红场阅兵彩排唱《喀秋莎》？ - 俄罗斯 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24813021/answer/29107620", "vote_cnt": 5304, "name": "火星队长", "title": "辩论中一句话把对方打趴下的逻辑是怎样的？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27732400/answer/37862682", "vote_cnt": 39215, "name": "匿名用户", "title": "如何评价陈赫离婚？ - 如何评价 X - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27199898/answer/35632047", "vote_cnt": 23876, "name": "gauchewood", "title": "普京的未来可能是怎样的？ - 政治 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28577005/answer/42379038", "vote_cnt": 11504, "name": "Thinkraft", "title": "为什么别人擦屁股用五六格纸就能擦干净，而我擦屁股就特别费纸？ - 冷知识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21567651/answer/64178231", "vote_cnt": 9453, "name": "Shen Homer", "title": "为什么说俄罗斯是战斗民族？ - 苏联 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21567651/answer/56227075", "vote_cnt": 14926, "name": "王富贵", "title": "为什么说俄罗斯是战斗民族？ - 苏联 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22791376/answer/26122390", "vote_cnt": 5266, "name": "宿海君", "title": "如何看待无印良品（MUJI）把长板凳卖到 1000 块钱？ - 设计 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28480234/answer/64052678", "vote_cnt": 6247, "name": "遠方的地平線", "title": "我们对印度的认识是否有误？ - 国际政治 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23935875/answer/34437648", "vote_cnt": 5393, "name": "负二", "title": "如何评价「女孩子只要嫁得好就很好，那么拼干嘛」的说法？ - 两性关系 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23935875/answer/26180427", "vote_cnt": 8371, "name": "椰丝Yes", "title": "如何评价「女孩子只要嫁得好就很好，那么拼干嘛」的说法？ - 两性关系 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23935875/answer/34211481", "vote_cnt": 6001, "name": "匿名用户", "title": "如何评价「女孩子只要嫁得好就很好，那么拼干嘛」的说法？ - 两性关系 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23935875/answer/26190435", "vote_cnt": 7493, "name": "匿名用户", "title": "如何评价「女孩子只要嫁得好就很好，那么拼干嘛」的说法？ - 两性关系 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28473371/answer/40964060", "vote_cnt": 8049, "name": "苏菲", "title": "日本的城市居民只有少部分人开车吗？ - 汽车 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24254745/answer/43234412", "vote_cnt": 7277, "name": "王尔萨", "title": "无印良品（MUJI）有哪些值得买的东西？ - 导购类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28641163/answer/41588274", "vote_cnt": 15026, "name": "朱博文", "title": "冲蹲式厕所时，最后一条屎总是很难冲走，怎么解决？ - 生活常识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34430247/answer/59326964", "vote_cnt": 8268, "name": "Monica.slender", "title": "作为医生，你有哪些「一般人我都告诉他，但他都不听啊」的忠告？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34430247/answer/59273791", "vote_cnt": 10331, "name": "香绝尘", "title": "作为医生，你有哪些「一般人我都告诉他，但他都不听啊」的忠告？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21315165/answer/22317520", "vote_cnt": 5850, "name": "舒乐乐", "title": "为什么所谓五十年一遇、百年一遇的自然灾害几乎年年发生？ - 水利 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19606796/answer/16284828", "vote_cnt": 16597, "name": "Danny W", "title": "「钻石」是 20 世纪全球最精彩的营销骗局吗？真的没有价值？ - 市场营销 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19606796/answer/16277959", "vote_cnt": 24504, "name": "Warren", "title": "「钻石」是 20 世纪全球最精彩的营销骗局吗？真的没有价值？ - 市场营销 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19606796/answer/46196437", "vote_cnt": 5521, "name": "饱醉豚", "title": "「钻石」是 20 世纪全球最精彩的营销骗局吗？真的没有价值？ - 市场营销 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25814355/answer/31552610", "vote_cnt": 33073, "name": "杨婵", "title": "果汁店铺地段不好没客人，怎么办？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20409428/answer/15053206", "vote_cnt": 9288, "name": "汪惟", "title": "在工业区开的超市，怎么样改进以提高竞争力？ - 市场营销 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20874376/answer/16467676", "vote_cnt": 22724, "name": "葛巾", "title": "如何选择各个价位段的西服？ - 服饰搭配 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20322809/answer/48728455", "vote_cnt": 51657, "name": "Lee Sean", "title": "狐臭是怎么产生的？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31972712/answer/56334147", "vote_cnt": 7176, "name": "KKxy", "title": "女生眼中男生的奇葩穿着有哪些？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20637394/answer/18836479", "vote_cnt": 26477, "name": "Phineas", "title": "「三只松鼠」为什么发展这么快？采取了哪些营销策略？ - 电子商务 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22537613/answer/41230163", "vote_cnt": 7362, "name": "思南", "title": "有哪些适合男士冬天穿的外套值得推荐？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22537613/answer/35362553", "vote_cnt": 6672, "name": "邢哲wanderer", "title": "有哪些适合男士冬天穿的外套值得推荐？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23297146/answer/24181954", "vote_cnt": 13961, "name": "匿名用户", "title": "大学校园旁的奶茶店，位置还行，效益一般，如何改善？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23297146/answer/24202415", "vote_cnt": 31887, "name": "卫斯里", "title": "大学校园旁的奶茶店，位置还行，效益一般，如何改善？ - 创业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30574837/answer/48648184", "vote_cnt": 8912, "name": "AbNonse", "title": "用诗句的形式描述下你的现男友（女友）？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30574837/answer/48615712", "vote_cnt": 8556, "name": "刘松霖", "title": "用诗句的形式描述下你的现男友（女友）？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30449928/answer/48684198", "vote_cnt": 5989, "name": "金刚害虫", "title": "这是创业的最好时机吗？ - 经济 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30385099/answer/49412797", "vote_cnt": 18453, "name": "毛小毛", "title": "前任比现任好看是什么体验？ - 恋爱 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33041708/answer/104476626", "vote_cnt": 5992, "name": "匿名用户", "title": "当下中国有哪些反智主义的现象？ - 社会心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33041708/answer/56597145", "vote_cnt": 37736, "name": "曾加", "title": "当下中国有哪些反智主义的现象？ - 社会心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33041708/answer/56828015", "vote_cnt": 15549, "name": "万方中", "title": "当下中国有哪些反智主义的现象？ - 社会心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33041708/answer/56605377", "vote_cnt": 12878, "name": "蔡江舟raist", "title": "当下中国有哪些反智主义的现象？ - 社会心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/33041708/answer/102505397", "vote_cnt": 6274, "name": "Lea Liu", "title": "当下中国有哪些反智主义的现象？ - 社会心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19846726/answer/19896886", "vote_cnt": 6361, "name": "天空很晴朗", "title": "如何忘掉你的前任？ - 异性交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29274094/answer/43837988", "vote_cnt": 7864, "name": "Robert Leo", "title": "刘翔宣布退役，如何评价刘翔的运动生涯？ - 体育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29274094/answer/44065674", "vote_cnt": 7332, "name": "张佳玮", "title": "刘翔宣布退役，如何评价刘翔的运动生涯？ - 体育 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29027583/answer/48329069", "vote_cnt": 17766, "name": "王诺诺", "title": "金坷垃广告上托下巴的老头是谁？ - 恶搞 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26222059/answer/47902339", "vote_cnt": 23750, "name": "匿名用户", "title": "中国有哪些恐怖的民俗？ - 中国社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26222059/answer/56061237", "vote_cnt": 6515, "name": "Gladys", "title": "中国有哪些恐怖的民俗？ - 中国社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26222059/answer/32402671", "vote_cnt": 7648, "name": "嚣鸨", "title": "中国有哪些恐怖的民俗？ - 中国社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26222059/answer/32394294", "vote_cnt": 6039, "name": "Dr.Bear", "title": "中国有哪些恐怖的民俗？ - 中国社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24336341/answer/27459342", "vote_cnt": 8066, "name": "冯驌", "title": "知乎上有哪些值得关注的「家居」与「装修」问题？ - 室内设计 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20785337/answer/90871682", "vote_cnt": 6606, "name": "柳柳", "title": "贫富人家的孩子在思维方式上有差异吗？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20785337/answer/16576830", "vote_cnt": 17141, "name": "程毅南", "title": "贫富人家的孩子在思维方式上有差异吗？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20785337/answer/44965417", "vote_cnt": 8972, "name": "Yuning Shi", "title": "贫富人家的孩子在思维方式上有差异吗？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20785337/answer/26052573", "vote_cnt": 6379, "name": "Hilary1019", "title": "贫富人家的孩子在思维方式上有差异吗？ - 人际交往 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34619705/answer/59471615", "vote_cnt": 9787, "name": "李典", "title": "有哪些广受球迷恶搞的足球运动员? - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30217404/answer/47556374", "vote_cnt": 9563, "name": "天天天晴", "title": "你听过/看过的最恐怖的鬼故事是什么？ - 灵异事件 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27791506/answer/38147570", "vote_cnt": 10796, "name": "涂玮", "title": "男生如何看待热爱健身的女生？ - 校园 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27791506/answer/56461221", "vote_cnt": 5167, "name": "刘文静", "title": "男生如何看待热爱健身的女生？ - 校园 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22079929/answer/23616319", "vote_cnt": 5789, "name": "朱炫", "title": "怎样跟一个没用过知乎的人描述知乎和百度知道的区别？ - 知乎社区 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30220049/answer/84906977", "vote_cnt": 13480, "name": "Sirius", "title": "有个逗比班主任是什么体验？ - 大学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30220049/answer/84212569", "vote_cnt": 10364, "name": "噗好碎碎", "title": "有个逗比班主任是什么体验？ - 大学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30220049/answer/47473245", "vote_cnt": 8039, "name": "陈澄橙", "title": "有个逗比班主任是什么体验？ - 大学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30220049/answer/91113029", "vote_cnt": 5189, "name": "钟瑜", "title": "有个逗比班主任是什么体验？ - 大学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21463431/answer/18669712", "vote_cnt": 6049, "name": "马伯庸", "title": "新浪微博为何渐渐失去了人气？ - 互联网 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30380948/answer/48786335", "vote_cnt": 7478, "name": "Kelly", "title": "有哪些可以满足中二情结的日常用品？ - 游戏 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30380948/answer/48761384", "vote_cnt": 13439, "name": "许一", "title": "有哪些可以满足中二情结的日常用品？ - 游戏 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29994089/answer/46582695", "vote_cnt": 6668, "name": "眠眠", "title": "体育界各个项目中公认不世出的天才都有哪些？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29994089/answer/119847112", "vote_cnt": 5439, "name": "污妖王", "title": "体育界各个项目中公认不世出的天才都有哪些？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29994089/answer/55267112", "vote_cnt": 15035, "name": "江北行", "title": "体育界各个项目中公认不世出的天才都有哪些？ - 健身 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24247605/answer/27205322", "vote_cnt": 12345, "name": "韩秋生", "title": "现实可以有多残酷？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24247605/answer/27270118", "vote_cnt": 7076, "name": "钱包", "title": "现实可以有多残酷？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23925457/answer/26145378", "vote_cnt": 8665, "name": "清流", "title": "什么样的人最自由？ - 社会 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/31186338/answer/52262193", "vote_cnt": 8152, "name": "Billy", "title": "宝可梦或者数码兽们的原型在自然界都存在么，都是什么？ - 动物 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23518018/answer/24822533", "vote_cnt": 8662, "name": "长弓穆巍", "title": "对比《哈利·波特》原著，其改编电影是不是很失败？ - 小说 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20312992/answer/17737757", "vote_cnt": 5516, "name": "涂样", "title": "如何看待吃狗肉这种行为？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20312992/answer/17458089", "vote_cnt": 5522, "name": "柯林癌症晚期患者", "title": "如何看待吃狗肉这种行为？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20813614/answer/19188527", "vote_cnt": 6479, "name": "李玄", "title": "金庸小说里有哪些不易发现却很打动人的小细节？ - 武侠 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20047841/answer/13799890", "vote_cnt": 5799, "name": "波旬", "title": "什么是营销？ - 市场营销 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26585277/answer/42146685", "vote_cnt": 24017, "name": "关健明", "title": "什么叫做走心的文案，怎么写走心的文案？ - 广告文案 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20992257/answer/19109185", "vote_cnt": 10025, "name": "刘小瓷", "title": "你知道哪些关于狗狗智商的故事？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/23008655/answer/29477769", "vote_cnt": 6526, "name": "KKLEE", "title": "你跟喵星人或者汪星人有哪些值得一说的故事？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20119817/answer/33643791", "vote_cnt": 6843, "name": "匿名用户", "title": "把宠物阉割是爱宠物吗？ - 动物 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20119817/answer/33578489", "vote_cnt": 23629, "name": "王诺诺", "title": "把宠物阉割是爱宠物吗？ - 动物 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30454189/answer/51900091", "vote_cnt": 10287, "name": "李二九", "title": "中华田园猫的颜值可以多高？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30454189/answer/72219997", "vote_cnt": 6231, "name": "沈小司司", "title": "中华田园猫的颜值可以多高？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/30454189/answer/48386669", "vote_cnt": 6438, "name": "王老虎", "title": "中华田园猫的颜值可以多高？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19837675/answer/21119058", "vote_cnt": 14156, "name": "Murve", "title": "猫和狗是否能一起养？为什么？ - 生活常识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29077330/answer/104811817", "vote_cnt": 30786, "name": "第一人称喵", "title": "相比最初进门，你收养的流浪动物如今有了什么变化？ - 猫 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27158655/answer/41865583", "vote_cnt": 7469, "name": "杨逍", "title": "养狗是一种怎样的体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27158655/answer/40770487", "vote_cnt": 9280, "name": "戴某DEMO", "title": "养狗是一种怎样的体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24600446/answer/28434596", "vote_cnt": 7432, "name": "陈语岚", "title": "发烧为何要去抽血化验？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/32028735/answer/58806567", "vote_cnt": 13563, "name": "橘子", "title": "养羊驼（俗称草泥马）是什么样的体验？ - X 是种怎样的体验 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34562079/answer/119951494", "vote_cnt": 8150, "name": "子千", "title": "养哈士奇是怎样一种体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34562079/answer/59256361", "vote_cnt": 7417, "name": "吕贺", "title": "养哈士奇是怎样一种体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34562079/answer/59188754", "vote_cnt": 13405, "name": "橘子", "title": "养哈士奇是怎样一种体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/34562079/answer/59325520", "vote_cnt": 12800, "name": "Gladys", "title": "养哈士奇是怎样一种体验？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27557959/answer/47906386", "vote_cnt": 28594, "name": "徐浆糊", "title": "养一只特别蠢的宠物是一种怎样的体验？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/27557959/answer/48235936", "vote_cnt": 7564, "name": "Kingfisher", "title": "养一只特别蠢的宠物是一种怎样的体验？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28537424/answer/41293731", "vote_cnt": 10764, "name": "林十四", "title": "你养的宠物发生过哪些让你极为「头疼恼火」或者「震撼感动」的瞬间？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19716102/answer/15143235", "vote_cnt": 5186, "name": "Wing", "title": "为什么给猫在身子一边贴上胶布，猫就会斜着走路呢？ - 生活常识 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/25023446/answer/47993123", "vote_cnt": 9616, "name": "程程", "title": "为什么有些中国女性不刮腋毛？ - 生活 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/28306301/answer/40364979", "vote_cnt": 11344, "name": "王尼玛", "title": "用于配种的种猪幸福吗？ - 畜牧业 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24931495/answer/92201602", "vote_cnt": 15018, "name": "乔克", "title": "大麻不会对生活造成危害吗？ - 健康 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24728044/answer/28769626", "vote_cnt": 16978, "name": "Justin Lee", "title": "鸡看到鸡蛋被拿走为什么不生气？ - 生物学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/24728044/answer/28826544", "vote_cnt": 7250, "name": "Joshua魏", "title": "鸡看到鸡蛋被拿走为什么不生气？ - 生物学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/19696283/answer/13486671", "vote_cnt": 5351, "name": "龚剑", "title": "哪些书让你的思想和生活有了自觉的改变？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20570905/answer/16347280", "vote_cnt": 7673, "name": "匿名用户", "title": "抑郁症患者的心理是怎样的？为什么有的会抑郁到自杀？ - 心理学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/29083850/answer/44593248", "vote_cnt": 23071, "name": "邵苏", "title": "不上健身房，有哪些即使是在家里完成也能有良好成效的健身方式 ？ - 生活方式 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21101845/answer/25360763", "vote_cnt": 13725, "name": "北风", "title": "中国是否拍不出《权力的游戏》这样的作品？为什么？ - 电视剧 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26039287/answer/53555304", "vote_cnt": 19901, "name": "贺滨", "title": "装修有哪些建议？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/26039287/answer/32240514", "vote_cnt": 28837, "name": "大鹏金翅", "title": "装修有哪些建议？ - 调查类问题 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/22716525/answer/22778058", "vote_cnt": 37530, "name": "卓恒", "title": "很瘦的人该制定怎样的健身计划？ - 运动 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/21372638/answer/59788261", "vote_cnt": 7401, "name": "艾法", "title": "被精神病患者杀死只能认倒霉么？ - 医学 - 知乎"}
+{"answer_url": "https://www.zhihu.com/question/20031224/answer/14608395", "vote_cnt": 8779, "name": "汪惟", "title": "为什么很多人都想开咖啡店、书吧？有技术门槛吗？盈利前景如何？ - 创业 - 知乎"}
